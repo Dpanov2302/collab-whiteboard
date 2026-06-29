@@ -1,0 +1,13 @@
+.git
+.github
+**/__pycache__
+**/.pytest_cache
+**/.mypy_cache
+**/node_modules
+**/dist
+**/.venv
+.env
+reports
+report-assets
+*.docx
+*.pdf
